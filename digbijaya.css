@@ -1,0 +1,143 @@
+.head{
+	background-color:; 
+}
+
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;;
+}
+
+h1{
+	color: #66BFBF;
+	margin:50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color: #66BFBF ;
+}
+h3{
+	color: #11999E;
+
+}
+
+.top-container{
+	background-color: #e4f9f5;
+	position: relative;
+	padding-top: 40px;
+}
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.top-cloud{
+	height: 150px;
+	width: 300px;
+	margin-left: 50%;
+}
+.middle-cloud{
+	height: 150px;
+	width: 300px;
+	position:absolute;
+	margin-left: 0;
+
+}
+.mountain-img{
+	margin-top:80px; 
+}
+hr{
+	border: dotted #eaf6f6  6px;
+	border-bottom: none;
+	width: 30%;
+}
+.btn {
+	background:linear-gradient(to bottom, #0946e0 5%, #408c99 100%);
+	background-color:#66BFBF;
+	border-radius:28px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#66BFBF;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #0946e0 100%);
+	background-color:#66BFBF;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+}
+.footer-link{
+	padding: 5px;
+	size: 100px;
+}
+/*
+.hello-img{
+  border-radius: 50%;
+  height: 200px;
+	width:200px;
+   
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.skill-img1{
+	height: 200px;
+	width:200px;
+	float: left;
+	
+}
+.skill-img2{
+	height: 200px;
+	width:200px;
+	float: right;
+}
+	*/
+.profile-img {
+	border-radius: 50%;
+    height: 200px;
+	width:200px;
+}
+.btech-img{
+	border-radius: 50%;
+    height: 200px;
+	width:200px;
+	float: left;
+	
+}
+.education-row{
+	text-align: left;
+	margin-left:200px;
+}
+.twelvth-img{
+	border-radius: 50%;
+    height: 200px;
+	width:200px;
+	float: right;
+	
+}
+.hsc-img{
+	border-radius: 50%;
+    height: 200px;
+	width:200px;
+	float: left;
+
